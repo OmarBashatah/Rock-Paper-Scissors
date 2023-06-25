@@ -1,2 +1,2 @@
-# rock-paper-scissors
+# Rock-Paper-Scissors
 This project had made to cope with Python language and develop coding skills .
